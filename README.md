@@ -1,2 +1,2 @@
-# Granger-causality-
-Granger Causality for mutivariate time series 
+# Granger causality
+Granger causality for mutivariate time series with model order selection in python  
